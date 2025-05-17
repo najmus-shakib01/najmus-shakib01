@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/daasda9rp/image/upload/v1747509137/Black_and_Yellow_Web_Developer_LinkedIn_Banner_s48rvc.png">
 <h1 align="left">Hi 👋, I'm Syed Najmus Shakib</h1>
-<h3 align="left">I'm Najmus Shakib, a full-stack web developer with expertise in Python, Django, JavaScript, React, and MySQL</h3>
+<h5 align="left">I'm Najmus Shakib, a full-stack web developer with expertise in Python, Django, JavaScript, React, and MySQL</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakibosd" alt="shakibosd" /></a> </p>
 
